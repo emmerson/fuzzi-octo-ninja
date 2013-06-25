@@ -9,4 +9,6 @@
     <li><a href="file4.php">4</a></li>
     <li><a href="file5.php">5</a></li>
     <li><a href="file6.php">6</a></li>    
+    <li>-- --</li>
+    <li><a href="fuzzi-principal.html">Page: Principal Test</a></li>
 </ul>    
